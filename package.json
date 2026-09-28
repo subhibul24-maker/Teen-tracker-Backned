@@ -1,0 +1,8 @@
+{
+  "name": "teen-expense-tracker",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "install:all": "npm.cmd --prefix backend install && npm.cmd --prefix frontend install"
+  }
+}
